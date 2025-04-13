@@ -29,5 +29,14 @@ KA2OEDN6RJBQ9Y2Y46S8QL79XE5SQ90P
 Clone the repo and run the following command line to generate a binary for your platform.
 
 ```
-go build rndchr.go
+go build
+```
+
+
+## Installing
+
+You can also install the binary into the default go bin directory with the following command.
+
+```
+go install
 ```
