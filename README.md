@@ -2,6 +2,8 @@
 
 A command line tool that generates a random set of characters.
 
+This was written in one of my early live coding episodes [Building a Random Character Generator in Go - S1 E3](https://youtu.be/hgfwi2yPXWA).
+
 
 ## Syntax
 
