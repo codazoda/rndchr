@@ -8,7 +8,7 @@ This was written in one of my early live coding episodes [Building a Random Char
 ## Syntax
 
 ```
-rndchr [characters]
+rndchr [characters] [--lower]
 ```
 
 
@@ -23,6 +23,12 @@ QTDGLLW9CBCSJG7L
 
 rndchr 32
 KA2OEDN6RJBQ9Y2Y46S8QL79XE5SQ90P
+
+rndchr 32 --lower
+zd31w2kpi4ob6z0xybjzvurxyl8jkpfh
+
+rndchr --lower
+59itqusf
 ```
 
 
